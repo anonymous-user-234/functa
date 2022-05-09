@@ -31,9 +31,9 @@ Partial observation    |  Imputation
 
 
 ## Figure 9
-Uncurated samples from flow trained on 512-dim modulations of SRN-cars.
+Uncurated samples from DDPM (diffusion) trained on 64-dim modulations of SRN-cars.
 
-![](./figures/car-flow-samples-512-gif.gif)
+![](./figures/car-ddpm-samples-64-gif.gif)
 
 ## Figure 10
 Latent interpolation between two car scenes with moving pose.
